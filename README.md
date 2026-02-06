@@ -2,6 +2,7 @@
 
 You can check out my pinned repos below, but not all of my code is hosted on GitHub! I often forget where some of it is myself, so I've created a little list here of projects that are hosted elsewhere:
 
+- [Shape Note Minutes Tune Name Adder](https://stackblitz.com/edit/vitejs-vite-wkyu3tjc?file=src%2FApp.tsx)
 - [eBird Gradient Widget](https://stackblitz.com/edit/vitejs-vite-ueqegn?file=src%2Fmain.ts)
 - [Contrast Checker](https://codesandbox.io/p/sandbox/contrast-checker-lvhd9k)
 - [Procedurally Generated Fish (WIP)](https://codesandbox.io/p/sandbox/procedurally-generated-fish-howse)
